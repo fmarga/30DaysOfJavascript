@@ -14,6 +14,6 @@ The original challenge:
 3.  Day 03 - [Booleans, operators and date](https://github.com/fmarga/30DaysOfJavascript/tree/master/day03)
 4.  Day 04 - [Conditionals](https://github.com/fmarga/30DaysOfJavascript/tree/master/day04)
 5.  Day 05 - [Arrays](https://github.com/fmarga/30DaysOfJavascript/tree/master/day05)
-6.  Days 06 - Loops
-7.  Days 07 - Functions
+6.  Days 06 - [Loops](https://github.com/fmarga/30DaysOfJavascript/tree/master/day06)
+7.  Days 07 - [Functions](https://github.com/fmarga/30DaysOfJavascript/tree/master/day07)
 8.  Day 08 - Objects

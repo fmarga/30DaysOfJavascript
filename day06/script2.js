@@ -7,6 +7,14 @@ for(let i = 0; i < 6; i++){
 }
 
 
+//Write a script which generates a random rgb color number.
+const rgbColor = [];
+for(let i = 0; i < 256; i++) {
+    let randomColor = Math.floor(Math.random() * 256);
+    rgbColor.push(randomColor);
+}
+
+
 //Using the above countries array, create the following new array.
 const countries = [
     'Albania',
