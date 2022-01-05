@@ -16,7 +16,7 @@ The original challenge:
 5.  Day 05 - [Arrays](https://github.com/fmarga/30DaysOfJavascript/tree/master/day05)
 6.  Days 06 - [Loops](https://github.com/fmarga/30DaysOfJavascript/tree/master/day06)
 7.  Days 07 - [Functions](https://github.com/fmarga/30DaysOfJavascript/tree/master/day07)
-8.  Day 08 - Objects
+8.  Day 08 - [Objects](https://github.com/fmarga/30DaysOfJavascript/tree/master/day08)
 9.  Day 09 - Higher Order Functions
 10. Day 10 - Sets and Maps
 11. Day 11 - Destructuring and Spreading
