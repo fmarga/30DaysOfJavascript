@@ -21,3 +21,11 @@ The original challenge:
 10. Day 10 - Sets and Maps
 11. Day 11 - Destructuring and Spreading
 12. Day 12 - Regular Expressions
+
+---
+
+#### FYI
+
+1. script1.js = means Exercises Level 1 on the original page of the project
+2. script2.js = means Exercises Level 2 on the original page of the project
+3. script3.js = means Exercises Level 3 on the original page of the project
