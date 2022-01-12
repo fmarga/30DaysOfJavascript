@@ -19,8 +19,12 @@ The original challenge:
 8.  Day 08 - [Objects](https://github.com/fmarga/30DaysOfJavascript/tree/master/day08)
 9.  Day 09 - [Higher Order Functions](https://github.com/fmarga/30DaysOfJavascript/tree/master/day09)
 10. Day 10 - [Sets and Maps](https://github.com/fmarga/30DaysOfJavascript/tree/master/day10)
-11. Day 11 - Destructuring and Spreading
+11. Day 11 - [Destructuring and Spreading](https://github.com/fmarga/30DaysOfJavascript/tree/master/day11)
 12. Day 12 - Regular Expressions
+13. Day 13 - Console Object Methods
+14. Day 14 - Error Handling
+15. Day 15 - Classes
+16. Day 16 - JSON
 
 ---
 
