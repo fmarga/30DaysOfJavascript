@@ -18,7 +18,7 @@ The original challenge:
 7.  Days 07 - [Functions](https://github.com/fmarga/30DaysOfJavascript/tree/master/day07)
 8.  Day 08 - [Objects](https://github.com/fmarga/30DaysOfJavascript/tree/master/day08)
 9.  Day 09 - [Higher Order Functions](https://github.com/fmarga/30DaysOfJavascript/tree/master/day09)
-10. Day 10 - Sets and Maps
+10. Day 10 - [Sets and Maps](https://github.com/fmarga/30DaysOfJavascript/tree/master/day10)
 11. Day 11 - Destructuring and Spreading
 12. Day 12 - Regular Expressions
 
