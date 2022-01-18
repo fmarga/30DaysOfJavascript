@@ -21,10 +21,17 @@ The original challenge:
 10. Day 10 - [Sets and Maps](https://github.com/fmarga/30DaysOfJavascript/tree/master/day10)
 11. Day 11 - [Destructuring and Spreading](https://github.com/fmarga/30DaysOfJavascript/tree/master/day11)
 12. Day 12 - [Regular Expressions](https://github.com/fmarga/30DaysOfJavascript/tree/master/day12)
-13. Day 13 - Console Object Methods
+13. Day 13 - [Console Object Methods](https://github.com/fmarga/30DaysOfJavascript/tree/master/day13)
 14. Day 14 - Error Handling
-15. Day 15 - Classes
+15. Day 15 - [Classes](https://github.com/fmarga/30DaysOfJavascript/tree/master/day15)
 16. Day 16 - JSON
+17. Day17 - Web Storages
+18. Day 18 - Promises
+19. Day 19 - Closure
+20. Day 20 - Writing Clean Code
+21. Day 21 - DOM
+22. Day 22 - Manipulating DOM Object
+23. Day 23 - Event Listeners
 
 ---
 
