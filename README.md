@@ -24,7 +24,7 @@ The original challenge:
 13. Day 13 - [Console Object Methods](https://github.com/fmarga/30DaysOfJavascript/tree/master/day13)
 14. Day 14 - Error Handling
 15. Day 15 - [Classes](https://github.com/fmarga/30DaysOfJavascript/tree/master/day15)
-16. Day 16 - JSON
+16. Day 16 - [JSON](https://github.com/fmarga/30DaysOfJavascript/tree/master/day16)
 17. Day17 - Web Storages
 18. Day 18 - Promises
 19. Day 19 - Closure
