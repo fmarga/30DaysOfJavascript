@@ -25,7 +25,7 @@ The original challenge:
 14. Day 14 - Error Handling
 15. Day 15 - [Classes](https://github.com/fmarga/30DaysOfJavascript/tree/master/day15)
 16. Day 16 - [JSON](https://github.com/fmarga/30DaysOfJavascript/tree/master/day16)
-17. Day17 - Web Storages
+17. Day 17 - [Web Storages](https://github.com/fmarga/30DaysOfJavascript/tree/master/day17)
 18. Day 18 - Promises
 19. Day 19 - Closure
 20. Day 20 - Writing Clean Code
