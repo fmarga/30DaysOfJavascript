@@ -29,7 +29,7 @@ The original challenge:
 18. Day 18 - [Promises](https://github.com/fmarga/30DaysOfJavascript/tree/master/day18)
 19. Day 19 - [Closure](https://github.com/fmarga/30DaysOfJavascript/tree/master/day19)
 20. Day 20 - Writing Clean Code
-21. Day 21 - DOM
+21. Day 21 - [DOM](https://github.com/fmarga/30DaysOfJavascript/tree/master/day20)
 22. Day 22 - Manipulating DOM Object
 23. Day 23 - Event Listeners
 
