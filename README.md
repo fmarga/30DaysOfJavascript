@@ -27,7 +27,7 @@ The original challenge:
 16. Day 16 - [JSON](https://github.com/fmarga/30DaysOfJavascript/tree/master/day16)
 17. Day 17 - [Web Storages](https://github.com/fmarga/30DaysOfJavascript/tree/master/day17)
 18. Day 18 - [Promises](https://github.com/fmarga/30DaysOfJavascript/tree/master/day18)
-19. Day 19 - Closure
+19. Day 19 - [Closure](https://github.com/fmarga/30DaysOfJavascript/tree/master/day19)
 20. Day 20 - Writing Clean Code
 21. Day 21 - DOM
 22. Day 22 - Manipulating DOM Object

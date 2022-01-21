@@ -1,0 +1,37 @@
+.wrapper {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  margin: 10px auto;
+  width: 600px;
+}
+
+h1 {
+  font-weight: 400;
+  font-size: 1.2rem;
+}
+
+span {
+  font-size: 3.5rem;
+}
+
+h2 {
+  font-weight: 300;
+  text-decoration: underline;
+  font-size: 0.9rem;
+  margin: 10px;
+}
+
+ul {
+  list-style-type: none;
+  max-width: 500px;
+  text-align: left;
+}
+
+li {
+  line-height: 2;
+  font-size: 0.985em;
+  font-weight: 200;
+  margin: 1px;
+  padding: 5px;
+  color: rgb(87, 86, 86);
+}
