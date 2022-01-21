@@ -30,7 +30,7 @@ The original challenge:
 19. Day 19 - [Closure](https://github.com/fmarga/30DaysOfJavascript/tree/master/day19)
 20. Day 20 - Writing Clean Code
 21. Day 21 - [DOM](https://github.com/fmarga/30DaysOfJavascript/tree/master/day20)
-22. Day 22 - Manipulating DOM Object
+22. Day 22 - [Manipulating DOM Object](https://github.com/fmarga/30DaysOfJavascript/tree/master/day22)
 23. Day 23 - Event Listeners
 
 ---
