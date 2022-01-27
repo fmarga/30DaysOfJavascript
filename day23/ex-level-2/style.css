@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Source Code Pro", monospace;
+}
+.text {
+  width: 400px;
+  text-align: center;
+  margin: 150px auto;
+  border: 1px solid rgb(177, 172, 172);
+  border-radius: 10rem;
+  color: rgb(116, 112, 112);
+}
+
+.key {
+  width: 200px;
+  text-align: center;
+  margin: auto;
+  border: 1px solid rgb(177, 172, 172);
+  border-radius: 10rem;
+  color: rgb(116, 112, 112);
+}
+
+p {
+  font-size: 24px;
+  font-weight: 400;
+}
+
+span {
+  font-size: 50px;
+  color: rgb(218, 89, 15);
+  font-style: italic;
+}
