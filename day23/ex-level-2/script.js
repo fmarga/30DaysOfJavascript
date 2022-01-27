@@ -1,8 +1,10 @@
-const span = document.querySelectorAll("span");
-console.log(span);
-
 document.body.addEventListener("keypress", (e) => {
-  console.log(e);
+  const p = document.querySelector("p");
+
+  p.innerHTML = "You pressed: <span></span>";
+
+  const span = document.querySelectorAll("span");
+
   span[0].innerHTML = `"${e.key.toUpperCase()}"`;
   span[1].innerHTML = e.keyCode;
 });
