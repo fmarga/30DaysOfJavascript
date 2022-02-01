@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Cairo", sans-serif;
+  background-image: url(./src/bg.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+h1 {
+  color: white;
+}
+
+header,
+main {
+  margin: auto;
+  text-align: center;
+  max-width: 800px;
+}
+
+input {
+  width: 300px;
+  padding: 5px;
+}
+
+select {
+  padding: 5px;
+}
+
+button {
+  width: 150px;
+  padding: 5px;
+  cursor: pointer;
+  background-color: rgb(16, 49, 65);
+  border: 1 px solid rgb(3, 27, 37);
+  color: white;
+  border-radius: 3px;
+}
+
+.flex-container {
+  margin: 50px;
+  display: flex;
+  justify-content: space-between;
+  width: 800px;
+  font-size: 30px;
+  color: white;
+}
+
+.flex-item {
+  max-width: 500px;
+}
+
+#planet-image {
+  max-width: 100%;
+}
+
+.image,
+.description {
+  max-width: 400px;
+}
+
+.description {
+  background-color: rgba(3, 27, 37, 0.575);
+  color: white;
+  font-weight: 800;
+  font-size: 24px;
+  padding: 150px 10px;
+}
