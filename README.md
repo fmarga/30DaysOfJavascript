@@ -32,7 +32,7 @@ The original challenge:
 21. Day 21 - [DOM](https://github.com/fmarga/30DaysOfJavascript/tree/master/day20)
 22. Day 22 - [Manipulating DOM Object](https://github.com/fmarga/30DaysOfJavascript/tree/master/day22)
 23. Day 23 - [Event Listeners](https://github.com/fmarga/30DaysOfJavascript/tree/master/day23)
-24. Day 24 - Mini project: Solar System
+24. Day 24 - [Mini project: Solar System](https://github.com/fmarga/30DaysOfJavascript/tree/master/day24)
 25. Day 25 - Mini Project: World Countries Data Visulalization 1
 26. Day 26 - Mini Project: World Countries Data Visulalization 2
 27. Day 27 - Mini Project: Portfolio
