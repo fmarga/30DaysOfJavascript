@@ -1,0 +1,65 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: rgb(240, 245, 252);
+}
+
+#countries {
+  text-align: center;
+  margin: 0 auto;
+  padding: 30px;
+}
+
+h2 {
+  font-weight: 600;
+  font-size: 2rem;
+  text-justify: distribute;
+  color: rgb(242, 160, 59);
+}
+
+p {
+  color: rgb(97, 96, 95);
+}
+
+span {
+  display: block;
+  padding-top: 10px;
+  font-size: 0.9rem;
+}
+
+.wrapper {
+  text-align: center;
+}
+
+.graph-buttons {
+  background-color: white;
+  padding: 20px;
+}
+
+.graph-buttons button {
+  background-color: rgb(242, 160, 59);
+  color: rgb(20, 20, 20);
+  text-transform: uppercase;
+  padding: 8px 15px;
+  margin: 5px;
+  border: 1px solid rgb(242, 160, 59);
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.result {
+  max-width: 600px;
+  margin: auto;
+}
+
+ul li {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px 0;
+  padding: 5px 0;
+}
