@@ -35,7 +35,7 @@ The original challenge:
 24. Day 24 - [Mini project: Solar System](https://github.com/fmarga/30DaysOfJavascript/tree/master/day24)
 25. Day 25 - [Mini Project: World Countries Data Visulalization 1](https://github.com/fmarga/30DaysOfJavascript/tree/master/day25)
 26. Day 26 - Mini Project: World Countries Data Visulalization 2
-27. Day 27 - Mini Project: Portfolio
+27. Day 27 - [Mini Project: Portfolio](https://github.com/fmarga/30DaysOfJavascript/tree/master/day27)
 28. Day 28 - Mini Project: Leaderboard
 29. Day 29 - Mini Project:Animating characters
 30. Day 30 - Final Projects
