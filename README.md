@@ -3,7 +3,7 @@
 30 days of Javascript's challenges starting with de basics to improve my knowledge
 
 The original challenge:
-[30 Days of javascript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
+[30 Days of JavaScript](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 
 ---
 
